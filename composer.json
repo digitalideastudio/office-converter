@@ -1,5 +1,5 @@
 {
-    "name" : "ncjoes/office-converter",
+    "name" : "digitalideastudio/office-converter",
     "description" : "PHP Wrapper for LibreOffice",
     "keywords" : ["Office","Converter"],
     "license" : "MIT",
@@ -7,7 +7,12 @@
         {
             "name" : "Chukwuemeka Nwobodo",
             "email" : "jc.nwobodo@gmail.com"
+        },
+        {
+            "name" : "Serhii Matrunchyk",
+            "email" : "serhii@digitalidea.studio"
         }
+
     ],
     "require" : {
         "php" : ">=5.4.4"
