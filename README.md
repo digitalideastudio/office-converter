@@ -6,7 +6,7 @@ Supported conversion formats include:
 
 * pptx => pdf
 * ppt => pdf
-* pdf => pdf,html
+* pdf => pdf, html
 * html => txt
 * docx => pdf, odt, html
 * doc => pdf, odt, html
@@ -32,6 +32,13 @@ composer require ncjoes/office-converter
 
 ### Dependencies
 In order to use OfficeConverter, you need to install [LibreOffice](http://www.libreoffice.org/).
+
+Example for Ubuntu 18.04.2 LTS:
+
+```
+apt-get update
+apt-get install --no-install-recommends -y ghostscript openjdk-11-jre-headless:amd64 libreoffice
+```
 
 ### Usage
 
