@@ -6,7 +6,8 @@ Supported conversion formats include:
 
 * pptx => pdf
 * ppt => pdf
-* pdf => pdf
+* pdf => pdf,html
+* html => txt
 * docx => pdf, odt, html
 * doc => pdf, odt, html
 * xlsx => pdf
@@ -14,6 +15,10 @@ Supported conversion formats include:
 * png => pdf
 * jpg => pdf
 * jpeg => pdf
+* tiff => pdf
+* tif => pdf
+* pps => pdf
+* ppsx => pdf
 
 ### Installation
 
