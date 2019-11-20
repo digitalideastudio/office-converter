@@ -27,7 +27,7 @@ It is recommended to install OfficeConverter through [Composer](http://getcompos
 Run this command within your project directory
 
 ```shell
-composer require ncjoes/office-converter
+composer require digitalideastudio/office-converter
 ```
 
 ### Dependencies
